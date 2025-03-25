@@ -4,6 +4,8 @@ This project is a computer vision application that transforms real-world images 
 ## Overview
 CartoonifyCV-App is an interactive web-based application that converts standard images into a variety of artistic styles such as cartoons, pencil sketches, watercolor, and color sketches. This project combines computer vision and web technologies to provide a user-friendly platform for image stylization.
 
+![Cartoonizer Web App Interface](templates/Picture1.png)
+
 ## Features
 - **Multiple Stylization Effects**: Choose from cartoonify, pencil sketch, watercolor, and color sketch.
 - **Real-time Previews**: Upload your image and instantly see the stylization effects.
