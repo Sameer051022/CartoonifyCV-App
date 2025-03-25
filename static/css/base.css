@@ -1,0 +1,51 @@
+/* main.css */
+
+/* Override Bootstrap styles for the navigation bar */
+.navbar {
+    background-color: #3498db; /* Change the background color */
+    color: #fff; /* Change the text color */
+}
+
+.navbar-brand {
+    font-size: 1.5em; /* Adjust the brand font size */
+}
+
+.navbar-nav .nav-item .nav-link {
+    color: #fff; /* Change the text color for navigation links */
+}
+
+/* Custom styles for the floating container and child elements */
+.float-container {
+    overflow: hidden; /* Clear the float */
+    border: 3px solid #ddd;
+    padding: 20px;
+}
+
+.float-child {
+    width: 48%; /* Adjust the width of the float child */
+    margin: 1%; /* Provide a small margin between float children */
+    float: left;
+    padding: 20px;
+    border: 2px solid red;
+}
+
+/* Custom style for text alignment */
+.a {
+    text-align: center;
+}
+
+/* Add more styles as needed */
+
+/* Responsive styles for the content container */
+.container {
+    margin-top: 2em;
+}
+
+/* Additional styles for the content within the container */
+#content {
+    padding: 20px;
+    background-color: #ecf0f1; /* Change the background color */
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
