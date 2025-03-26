@@ -1,4 +1,7 @@
-Visit [GitHub](https://github.com) for more information.
+Visit [GitHub][github-home] for more information.
+
+[github-home]: https://github.com
+
 
 
 # CartoonifyCV-App
