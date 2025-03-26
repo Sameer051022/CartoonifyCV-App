@@ -1,9 +1,3 @@
-# React · [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-
-
-
-
 # CartoonifyCV-App
 This project is a computer vision application that transforms real-world images into various stylized formats, including cartoon, pencil sketch, watercolor, and color sketch effects. Leveraging technologies such as OpenCV, Flask, and JavaScript, the application provides an interactive web interface where users can upload images and select the desired transformation effect. The backend processes the images using advanced image processing techniques such as color quantization, adaptive thresholding, and smoothing to generate artful renditions of the input photographs.
 
