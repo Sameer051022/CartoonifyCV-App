@@ -1,4 +1,5 @@
-[![GitHub Logo](https://example.com/github_logo.jpg)](https://github.com)
+# React · [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 
 
