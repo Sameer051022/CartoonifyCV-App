@@ -1,6 +1,5 @@
-Visit [GitHub][github-home] for more information.
+[![GitHub Logo](https://example.com/github_logo.jpg)](https://github.com)
 
-[github-home]: https://github.com
 
 
 
